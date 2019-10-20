@@ -11387,11 +11387,6 @@ video {
   z-index: auto;
 }
 
-.gradient {
-  background: -webkit-gradient(linear, left top, right top, from(#d53369), to(#daae51));
-  background: linear-gradient(90deg, #d53369 0%, #daae51 100%);
-}
-
 @media (min-width: 640px) {
   .sm\:sr-only {
     position: absolute;
@@ -54439,3 +54434,5 @@ video {
     z-index: auto;
   }
 }
+
+
