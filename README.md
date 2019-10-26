@@ -1,7 +1,7 @@
-<h1 align="center">mergeforces-ui 👋</h1>
-<p>
-  <img alt="Version" src="https://img.shields.io/badge/version-0.1.0-blue.svg?cacheSeconds=2592000" />
-</p>
+# mergeforces-ui
+
+![version](https://img.shields.io/badge/version-0.1.0-blue)[![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/mergeforces/mergeforces-ui/blob/master/LICENSE.md)
+
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)
 
