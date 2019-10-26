@@ -4,9 +4,10 @@ import heroImage from '../static/hero.jpg';
 
 const Hero = () => {
   const background = {
-    backgroundImage: `url(${heroImage})`,
-    width: '100%',
-    height: '500px',
+    backgroundImage: `linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(${heroImage})`,
+    width: '100vw',
+    height: '100vh',
+    color: 'white'
   }
 
   return (
@@ -20,7 +21,7 @@ const Hero = () => {
           </div>
         </div>
       </div>
-    </React.Fragment >
+    </React.Fragment>
   )
 }
 
